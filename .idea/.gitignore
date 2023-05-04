@@ -1,0 +1,27 @@
+# Compiled Python files
+*.pyc
+
+# Python executables
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Testing directories
+__pycache__/
+.cache/
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Test reports
+test-reports/
